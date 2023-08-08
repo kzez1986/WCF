@@ -1,0 +1,10 @@
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.exe.config
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.exe
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.pdb
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceLib.dll
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceLib.pdb
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csprojAssemblyReference.cache
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csproj.CopyComplete
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.exe
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceHost\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.pdb

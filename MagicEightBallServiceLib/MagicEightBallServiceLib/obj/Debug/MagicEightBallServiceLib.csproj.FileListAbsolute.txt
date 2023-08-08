@@ -1,0 +1,6 @@
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\MagicEightBallServiceLib.dll
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\MagicEightBallServiceLib.pdb
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.csprojAssemblyReference.cache
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.dll
+C:\Users\kzez1986\Source\Repos\WCF\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.pdb
